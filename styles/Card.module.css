@@ -43,3 +43,14 @@
     background-color: #E33D33;
     color: #fff
 }
+
+@media screen and (max-width: 600px){
+    .card .title {
+     font-size: .9em; 
+    }
+
+    .card .btn {
+        padding: .4em 0.8em;
+        font-size: .9em
+    }
+}
